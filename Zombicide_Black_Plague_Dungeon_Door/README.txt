@@ -31,3 +31,9 @@ No support required.
 Printer: Felix 3.1
 Rafts: No
 Supports: No
+
+En la carpeta ENDER3 se encuentra el modelo 3D parseado para la ENDER con las siguentes características:
+Número piezas: 4 bases y 4 puertas.
+Infill: 20%
+Altura de capas: 0.15
+Tiempo: 7h 33min

@@ -28,3 +28,7 @@ I have added more detail to the model, now scales are visible and will paint wel
 I hope you'll have fun with it. 
 
 Tips are appreciated and welcomed.
+
+En la carpeta ENDER3 se encuentra el modelo 3D parseado para la ENDER con las siguentes características:
+Infill: 20%
+Altura de capas: 0.1
